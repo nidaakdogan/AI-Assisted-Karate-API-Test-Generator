@@ -65,15 +65,6 @@ Manual Karate tests plus a lightweight Python helper that generates negative cas
 
 ---
 
-## English Quick Guide
-
-1. `cd ai_helper && pip install -r requirements.txt`
-2. `py generate_karate_scenarios.py`
-3. `cd ..\karate-project && mvn test`
-4. `cd .. && py ui\build_dashboard_data.py`
-5. Open `ui/index.html` with any static server (Live Server, `npx serve ui`, etc.) and capture the dashboard.
-
----
 
 ## Özelleştirme / Customization
 
