@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2025-12-01T12:25:11.836668+00:00",
+  "manualScenarioCount": 2,
+  "aiScenarioCount": 5,
+  "lastRun": {
+    "status": "FAIL",
+    "passCount": 0,
+    "failCount": 7
+  }
+}
